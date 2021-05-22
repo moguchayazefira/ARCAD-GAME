@@ -1,7 +1,6 @@
 html{
   background-color: #4682B4;
   text-align: center;
-  text-color: #32CD32;
 }
 img{
   img-align: center;
@@ -11,6 +10,6 @@ img{
 p{
   font-size: 10px;
   font-family:;
-  text-color: #32CD32;
+  color: #32CD32;
 }
 
